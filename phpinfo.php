@@ -6,7 +6,7 @@
 	<title>Hello Fucking World!</title>
 </head>
 <body>
-	<h1>Hello Git! Pretty F***ing AMAZING!!!</h1>
+	<h1>Hello G! Pretty F***ing AMAZING!!!</h1>
 	<p><?php echo 'We are running PHP, version: ' . phpversion(); ?></p>
 	<?
 	// // define variables and assign values to them
