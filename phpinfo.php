@@ -3,7 +3,7 @@
 ?>
 <!DOCTYPE html>
 <head>
-	<title>Hello World!</title>
+	<title>Hello Fucking World!</title>
 </head>
 <body>
 	<h1>Hello World! Pretty F***ing AMAZING!!</h1>
