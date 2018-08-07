@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1>Hello Git! Pretty F***ing AMAZING!!!</h1>
+	<h3>Let us add a h3 heading in branch test3</h3>
 	<p><?php echo 'We are running PHP, version: ' . phpversion(); ?></p>
 	<?
 	// // define variables and assign values to them
