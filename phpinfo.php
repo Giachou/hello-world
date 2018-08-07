@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1>Hello Git! Pretty F***ing AMAZING!!!</h1>
+	<h2>This is a change made inside a Git branch!</h2>
 	<p><?php echo 'We are running PHP, version: ' . phpversion(); ?></p>
 	<?
 	// // define variables and assign values to them
